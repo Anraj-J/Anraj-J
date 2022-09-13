@@ -1,3 +1,5 @@
+![Anraj Banner](https://user-images.githubusercontent.com/86089564/189833092-a8518033-e40a-49b9-bb68-0231ed12c83f.png)
+
 ### Hi there 👋
 
 <!--
