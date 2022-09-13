@@ -1,4 +1,4 @@
-![Anraj Banner](https://user-images.githubusercontent.com/86089564/189833092-a8518033-e40a-49b9-bb68-0231ed12c83f.png)
+![No-Pic Anraj Banner](https://user-images.githubusercontent.com/86089564/189836134-405c7c5a-771e-4964-bffe-3c1ad15d5c8a.png)
 
 ### Hi there 👋
 
