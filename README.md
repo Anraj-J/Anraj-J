@@ -19,7 +19,7 @@ A passionate software developer and a third year double degree student at the Un
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jejianraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jejianraj/" height="30" width="40" /></a>
 </p>
 
-### Check out my work below and feel free to reach out! 
+Check out my work below and feel free to reach out! 
 
 
 <!--
