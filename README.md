@@ -1,7 +1,7 @@
 ![No-Pic Anraj Banner](https://user-images.githubusercontent.com/86089564/189836134-405c7c5a-771e-4964-bffe-3c1ad15d5c8a.png)
 
 <h1 align="center">Hi 👋, I'm Anraj</h1>
-<h3 align="center">A passionate software developer and double degree student at the University of Waterloo and Wilfrid Laurier University.</h3>
+<h3 align="center">A passionate software developer and a third year double degree student at the University of Waterloo and Wilfrid Laurier University.</h3>
 
 - 🔭 I’m currently working on [Convivial](https://github.com/Anraj-J/Convivial)
 
