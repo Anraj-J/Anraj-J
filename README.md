@@ -18,7 +18,9 @@ I am currently working at AutoTrader as a data & automation intern for the Fall 
 
 - 🤝 I worked with a team to make [ChamberCrawler3000](https://github.com/Anraj-J/DungeonCrawlerRPG)
 
-- 📫 How to reach me **jeji2960@mylaurier.ca**
+- ⚡ Visit my Website! **https://jejianraj.com/**
+   
+- 📫 **jeji2960@mylaurier.ca**
 
 **Connect with me:** 
 
