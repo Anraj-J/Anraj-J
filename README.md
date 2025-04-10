@@ -8,14 +8,9 @@ I’ve recently completed an internship at MDA as a Software Engineer Intern whe
 
 I have experience as a Web Development Intern at Civiconnect where I got the opportunity to work with the Smithsonian Institution on a development project for one of their historical archives. I also implemented a web development project to support business partners in digital transformation from inception through delivery.
 
-I am currently working at AutoTrader as a data & automation intern for the Fall 2024 term!
+I just finished 4 months at AutoTrader as a data engineering intern for the Fall 2024 term!
 
  
-
-- 🔭 I’m currently working on [Convivial](https://github.com/Anraj-J/Convivial)
-
-- 👯 I’m looking to keep improving [ReadMember](https://github.com/Anraj-J/ReadMember)
-
 - 🤝 I worked with a team to make [ChamberCrawler3000](https://github.com/Anraj-J/DungeonCrawlerRPG)
 
 - ⚡ Visit my Website! **https://jejianraj.com/**
@@ -33,6 +28,12 @@ Check out my work below and feel free to reach out!
 
 <!--
 **Anraj-J/Anraj-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 🔭 I’m currently working on [Convivial](https://github.com/Anraj-J/Convivial)
+
+- 👯 I’m looking to keep improving [ReadMember](https://github.com/Anraj-J/ReadMember)
+
 
 Here are some ideas to get you started:
 
