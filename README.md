@@ -2,16 +2,9 @@
 
 **Hi 👋, I'm Anraj**
 
-I'm Anraj, a fourth-year undergraduate student studying Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University. I have a passion for building meaningful software and solving difficult problems.
+I'm Anraj, I just wrapped up my fourth year as an undergrad studying Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University. I have a passion for building meaningful software and solving difficult problems.
 
-I’ve recently completed an internship at MDA as a Software Engineer Intern where I had the opportunity to participate in software solution designs for Canadarm2.
-
-I have experience as a Web Development Intern at Civiconnect where I got the opportunity to work with the Smithsonian Institution on a development project for one of their historical archives. I also implemented a web development project to support business partners in digital transformation from inception through delivery.
-
-I just finished 4 months at AutoTrader as a data engineering intern for the Fall 2024 term!
-
- 
-- 🤝 I worked with a team to make [ChamberCrawler3000](https://github.com/Anraj-J/DungeonCrawlerRPG)
+My last internship was at AutoTrader 🚗 as a data engineer. I’ve also had the opportunity to work at MDA🚀 as a Software Engineer Intern where I had the opportunity to participate in software solution designs for Canadarm2. I have experience as a Web Development Intern at Civiconnect where I got the opportunity to work with the Smithsonian Institution on a development project for one of their historical archives 🌎.
 
 - ⚡ Visit my Website! **https://jejianraj.com/**
    
