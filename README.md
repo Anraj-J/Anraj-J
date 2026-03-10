@@ -2,10 +2,6 @@
 
 **Hi 👋, I'm Anraj**
 
-I'm Anraj, a fifth year undergrad studying Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University. I have a passion for building meaningful software and solving difficult problems.
-
-My last internship was at Shopify as a Software Engineer. Before that I was at AutoTrader 🚗 as a data engineer. I’ve also had the opportunity to work at MDA🚀 as a Software Engineer Intern where I had the opportunity to participate in software solution designs for Canadarm2. I have experience as a Web Development Intern at Civiconnect where I got the opportunity to work with the Smithsonian Institution on a development project for one of their historical archives 🌎.
-
 - ⚡ Visit my Website! **https://jejianraj.com/**
    
 - 📫 **jeji2960@mylaurier.ca**
@@ -15,8 +11,6 @@ My last internship was at Shopify as a Software Engineer. Before that I was at A
 <p align="left">
 <a href="https://www.linkedin.com/in/jejianraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jejianraj/" height="30" width="40" /></a>
 </p>
-
-Check out my work below and feel free to reach out! 
 
 
 <!--
